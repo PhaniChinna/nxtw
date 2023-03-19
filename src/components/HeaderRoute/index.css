@@ -1,0 +1,119 @@
+.Header-container {
+  background-color: #212121;
+  block-size: cover;
+  width: 100vw;
+  height: 100px;
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.Header-Website-logo {
+  width: 120px;
+  margin-top: 20px;
+  margin-left: 40px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.Header-Second-lay {
+  margin-top: 23px;
+}
+
+.Header-profile-logo {
+  width: 30px;
+  height: 30px;
+  margin-right: 30px;
+  margin-left: 23px;
+  margin-bottom: -10px;
+}
+
+.Header-FiSun {
+  color: white;
+  height: 25px;
+  width: 25px;
+  margin-right: 30px;
+  margin-left: 23px;
+  margin-bottom: -10px;
+  cursor: pointer;
+}
+
+.Header-Logout-button {
+  width: 90px;
+  height: 30px;
+  margin-right: 30px;
+  margin-left: 23px;
+  margin-bottom: 10px;
+  font-family: Roboto;
+  font-weight: 400;
+  color: white;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  border: 1px solid #ffffff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.FiLogout {
+  color: white;
+  height: 23px;
+  width: 23px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 20px;
+}
+
+.FiMenu {
+  color: white;
+  height: 23px;
+  width: 23px;
+  margin-top: 10px;
+}
+
+.FiSun {
+  color: white;
+  height: 20px;
+  width: 20px;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+@media screen and (max-width: 667px) {
+  .Header-Website-logo {
+    height: 30px;
+    width: 100px;
+    margin-top: 27px;
+  }
+}
+
+@media screen and (max-width: 667px) {
+  .Header-Logout-button {
+    display: none;
+  }
+  .Header-profile-logo {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 776px) {
+  .FiMenu {
+    display: none;
+  }
+  .FiLogout {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .Header-FiSun {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 767px) {
+  .FiSun {
+    display: none;
+  }
+}

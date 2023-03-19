@@ -1,0 +1,63 @@
+.HomeVideo-list-container {
+  margin-right: 15px;
+}
+
+.HomeVideoRoute-thumbNail-img {
+  width: 310px;
+  margin-top: 25px;
+  height: 200px;
+}
+
+.HomeVideoRoute-title-container {
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+}
+
+.HomeVideo-Title {
+  color: white;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 16px;
+  margin-left: 13px;
+}
+
+.HomeVideo-Profile-image {
+  width: 30px;
+  height: 30px;
+  margin-top: 15px;
+}
+.HomeVideo-name {
+  color: white;
+  font-family: Roboto;
+  font-size: 15px;
+  margin-left: 45px;
+  margin-top: 1px;
+  color: #94a3b8;
+}
+
+.HomeVideo-view-pub-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.HomeVideo-viewCount {
+  font-family: Roboto;
+  font-weight: bold;
+  margin-left: 45px;
+  margin-top: 1px;
+  color: #94a3b8;
+  margin-right: 20px;
+}
+
+.HomeVideo-PublishedAt {
+  font-family: Roboto;
+  font-weight: bold;
+  margin-top: 1px;
+  color: #94a3b8;
+  margin-right: 10px;
+}
+
+.Link-Home-Video-List {
+  text-decoration: none;
+}

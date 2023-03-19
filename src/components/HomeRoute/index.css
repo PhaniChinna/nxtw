@@ -1,0 +1,13 @@
+.HomePage-Header-container {
+  position: fixed;
+  margin-top: -100px;
+}
+
+.HomePage-container {
+  background-color: #0f0f0f;
+  width: 1023px;
+  min-height: 83vh;
+  margin-top: 100px;
+  margin-left: 240px;
+  margin-bottom: -30px;
+}

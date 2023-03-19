@@ -1,0 +1,59 @@
+.Trending-list-list-items {
+  margin-top: 30px;
+}
+
+.Trending-Video-list {
+  width: 430px;
+  height: 250px;
+  margin-top: 30px;
+}
+
+.Trending-container-list-Route {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}
+
+.Trending-Video-list-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.Trending-Title {
+  color: white;
+  font-family: Roboto;
+  font-weight: 400;
+  margin-left: 20px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.Trending-name {
+  color: #64748b;
+  font-family: Roboto;
+  font-weight: 400;
+  margin-left: 20px;
+  font-size: 17px;
+  margin-top: -2px;
+}
+
+.Trending-View-publish {
+  display: flex;
+  flex-direction: row;
+}
+
+.Trending-ViewCount {
+  color: #64748b;
+  margin-left: 20px;
+  margin-top: -5px;
+  font-family: Roboto;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.Trending-PublishedAt {
+  color: #64748b;
+  margin-top: -5px;
+  font-family: Roboto;
+  font-weight: bold;
+}

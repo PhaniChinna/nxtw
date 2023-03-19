@@ -1,0 +1,84 @@
+.Trending-video-unOrdered-List {
+  list-style-type: none;
+  margin-top: -10px;
+}
+
+.TrendingVideo-container-Route {
+  margin-top: 50px;
+}
+
+.Trending-ai-fire {
+  background-color: #313131;
+  height: 60px;
+}
+
+.Tre {
+  background-color: #0f0f0f;
+  margin-top: -20px;
+  border-radius: 150px;
+  width: 100px;
+}
+
+.AiFillFire {
+  height: 40px;
+  margin-top: 20px;
+  width: 40px;
+  color: red;
+}
+
+.RenderLoaderView {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Loader-view {
+  margin-top: 20px;
+}
+
+.Trending-failure-view {
+  margin-top: 30px;
+  width: 400px;
+  height: 350px;
+}
+
+.Trending-failure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Trending-failure-heading {
+  color: white;
+  margin-left: 175px;
+  font-family: Roboto;
+  font-weight: bold;
+  margin-top: 36px;
+}
+
+.Trending-Para {
+  font-family: Roboto;
+  color: white;
+  margin-left: 175px;
+  margin-top: 20px;
+}
+
+.Trending-Please-try {
+  font-family: Roboto;
+  color: white;
+  margin-left: 175px;
+  margin-top: 10px;
+}
+
+.Trending-button {
+  font-family: Roboto;
+  color: white;
+  margin-left: 175px;
+  height: 30px;
+  width: 90px;
+  background-color: #4f46e5;
+  outline: none;
+  border: none;
+  margin-top: 10px;
+  border-radius: 5px;
+}

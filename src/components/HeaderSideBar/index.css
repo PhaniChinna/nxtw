@@ -1,0 +1,162 @@
+.Header-Side-bar-container {
+  background-color: #212121;
+  width: 240px;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100vh;
+}
+
+.HederSide-header {
+  position: fixed;
+}
+
+.Header-side-unOrdered-list {
+  list-style-type: none;
+  margin-top: -50px;
+}
+
+.Header-side-Home-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.Header-side-Home {
+  color: white;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 5px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.Header-AiFillHome {
+  color: white;
+  width: 22px;
+  height: 22px;
+  margin-right: 20px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.Header-Side-Trending-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.Header-AiFire {
+  color: white;
+  width: 22px;
+  height: 22px;
+  margin-right: 20px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.Header-side-Trending {
+  color: white;
+  font-family: Roboto;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 15px;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.Header-side-Gaming-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.Header-SiYouTubegaming {
+  color: white;
+  width: 22px;
+  height: 22px;
+  margin-right: 20px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.Header-side-Gaming {
+  color: white;
+  font-family: Roboto;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 15px;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.Header-side-saved-Container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.Header-MdPlayed {
+  color: white;
+  width: 22px;
+  height: 22px;
+  margin-right: 20px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.Header-side-saved {
+  color: white;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.Header-side-contact-us {
+  margin-bottom: 40px;
+}
+
+.Header-side-us {
+  font-size: 16px;
+  color: white;
+  font-weight: Roboto;
+  font-weight: 400;
+  margin-left: 25px;
+  margin-top: -20px;
+}
+.Header-side-facebook-logo {
+  width: 45px;
+  height: 45px;
+  margin-right: 10px;
+  margin-left: 20px;
+}
+
+.Header-side-twitter-logo {
+  width: 45px;
+  height: 45px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.Header-side-linked-in-logo {
+  width: 45px;
+  height: 45px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.Header-side-Paragraph {
+  color: white;
+  font-family: Roboto;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-right: 10px;
+}

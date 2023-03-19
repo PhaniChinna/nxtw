@@ -1,0 +1,66 @@
+.Gaming-Route {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.Render-Loader-Gaming {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Loader-render-gaming {
+  margin-top: 20px;
+}
+
+.RenderFailure-view-image {
+  width: 400px;
+  margin-top: 38px;
+  height: 350px;
+}
+
+.Render-failure-view-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Gaming-Trending-Route-Heading {
+  font-family: Roboto;
+  font-weight: 400;
+  color: white;
+  margin-left: 170px;
+}
+
+.Gaming-Route-Para {
+  font-family: Roboto;
+  font-weight: 400;
+  color: white;
+  margin-left: 170px;
+  margin-top: -1px;
+}
+
+.Gaming-Route-Paragraph {
+  font-family: Roboto;
+  font-weight: 400;
+  color: white;
+  margin-left: 170px;
+  margin-top: -1px;
+}
+
+.Gaming-Route-Button {
+  font-family: Roboto;
+  font-weight: 400;
+  color: white;
+  width: 90px;
+  height: 30px;
+  margin-bottom: 20px;
+  background-color: #4f46e5;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  margin-left: 170px;
+  margin-top: -1px;
+}

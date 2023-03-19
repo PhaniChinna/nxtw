@@ -1,0 +1,95 @@
+.LoginRoute-container {
+  background-color: #212121;
+  height: 100vh;
+  padding: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.LoginRoute1-container {
+  background-color: #000000;
+  min-height: 100px;
+  width: 340px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+.LoginRoute-Logo {
+  width: 130px;
+  height: 40px;
+  margin-top: 10px;
+}
+
+.Label-user {
+  color: white;
+  margin-top: 20px;
+}
+
+.LoginRoute-Form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.Input-type-user {
+  width: 250px;
+  margin-top: 10px;
+  height: 30px;
+  outline: none;
+  padding: 8px;
+  color: white;
+  border: none;
+  background-color: transparent;
+  border: 1px solid #64748b;
+}
+
+.Label-Password {
+  color: white;
+  margin-top: 10px;
+}
+
+.Input-password {
+  width: 250px;
+  margin-top: 10px;
+  height: 30px;
+  outline: none;
+  padding: 8px;
+  color: white;
+  border: none;
+  background-color: transparent;
+  border: 1px solid #64748b;
+}
+
+.Label-Show-Password {
+  color: white;
+}
+
+.Label-Input-Checkbox {
+  margin-top: 15px;
+  margin-right: 10px;
+}
+
+.Login-Route-Button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 250px;
+  height: 30px;
+  background-color: #4f46e5;
+  outline: none;
+  border: none;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+  cursor: pointer;
+}
+
+.LoginRoute-Error-msg {
+  color: red;
+  margin-top: -10px;
+  margin-left: -10px;
+}

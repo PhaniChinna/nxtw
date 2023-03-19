@@ -1,0 +1,45 @@
+.Gaming-Header-container {
+  position: fixed;
+  margin-top: -100px;
+}
+
+.Gaming-container {
+  background-color: #0f0f0f;
+  width: 1023px;
+  min-height: 83vh;
+  margin-top: 100px;
+  margin-left: 240px;
+  margin-bottom: -30px;
+}
+.RenderGaming-Route-container {
+  background-color: #181818;
+  height: 100px;
+  padding: 20px;
+}
+
+.Render-Route-Gaming {
+  background-color: black;
+  width: 80px;
+  height: 80px;
+  margin-top: -10px;
+  margin-left: 30px;
+  display: flex;
+  flex-direction: row;
+  border-radius: 200px;
+}
+
+.Gaming-SiYoutubegaming {
+  color: Red;
+  margin-left: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  height: 30px;
+  width: 30px;
+  margin-top: 25px;
+}
+
+.Gaming-Route-gaming {
+  margin-left: 90px;
+  color: white;
+  margin-top: -65px;
+}
